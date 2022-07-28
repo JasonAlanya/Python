@@ -1,6 +1,3 @@
-from re import A
-
-
 edad=input("Ingrese su edad actual: ")
 
 if int(edad) >= 18:
